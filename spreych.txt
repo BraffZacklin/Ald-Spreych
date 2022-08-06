@@ -1,356 +1,356 @@
-Nouns:
-    -s:   genitive
-    -n:   plural
-    -nes: abstract noun; having the qualities of x
-    -niy: abstract noun; -tion
-    -ns:  a tool for x
-    un-:  negation/absence of x, bad x (e.g. deyd "deed", undeyd "misdeed")
-    meyn-: ill, negative connotation: meynsweren, "to lie; to perjur"
+    Nouns:
+        -s:   genitive
+        -n:   plural
+        -nes: abstract noun; having the qualities of x
+        -niy: abstract noun; -tion
+        -ns:  a tool for x
+        un-:  negation/absence of x, bad x (e.g. deyd "deed", undeyd "misdeed")
+        meyn-: ill, negative connotation: meynsweren, "to lie; to perjur"
 
-    andgit  - intelligence
-    boks    - box
-    brozr   - brother
-    child   - baby
-    chiyl   - cold
-    duym    - judgement
-    erz     - earth (the soil and the planet) 
-    farenr  - traveller
-    fazr    - father
-    heym    - home
-    holkiyr - feminine warrior; gay slang apprx. 'butch'
-    hoyf    - woman
-    hund    - dog, hound
-    hyald   - hold (over something, someone); protection
-    hyaldboks - safe; repository; stash
-    hyaldstuy - safe place; stash
-    hyovn   - heaven
-    hyuss   - house
-    kinn    - kind, type, species, group; family
-    kiyn    - king
-    kiz     - kid
-    kluyk   - cloak
-    kuyss   - kiss
-    leyf    - loaf, bread
-    likht   - light
-    liykh   - laugh 
-    loyf    - life
-    luyf    - love
-    mann    - person
-    meyn    - a crime, a sin
-    meydn   - girl
-    mors    - death
-    mozr    - mother
-    ney     - never; no
-    neym    - name
-    nikht   - boy
-    nors    - north
-    nuyt    - use (of something); occupation or line of work
-    oy      - always; yes
-    rikht   - right (ie human rights)
-    riych   - kingdom
-    sistr   - sister
-    skritr  - bugs, pl. skritn
-    spreych - speech, language
-    sterk   - strength
-    stuy    - place, spot, area, location, room
-    tiyr    - God
-    wer     - man
-    wekh    - way
-    wind    - wind
-    wikht   - thing, creature
-    wisduym - wisdom
-    winn    - war
-    witz    - joke
-    yekind  - natural world; disposition; kind
-    yemeyn  - meaning
-    yewikht - weight
-    yewit   - (one of the 5) senses
-    yungr   - child, kid
-    zing    - thing
-    ziykh   - victory
-    ziykhns - spoils of war; prize
-    zuyn    - sun
+        andgit  - intelligence
+        boks    - box
+        brozr   - brother
+        child   - baby
+        chiyl   - cold
+        duym    - judgement
+        erz     - earth (the soil and the planet) 
+        farenr  - traveller
+        fazr    - father
+        heym    - home
+        holkiyr - feminine warrior; gay slang apprx. 'butch'
+        hoyf    - woman
+        hund    - dog, hound
+        hyald   - hold (over something, someone); protection
+        hyaldboks - safe; repository; stash
+        hyaldstuy - safe place; stash
+        hyovn   - heaven
+        hyuss   - house
+        kinn    - kind, type, species, group; family
+        kiyn    - king
+        kiz     - kid
+        kluyk   - cloak
+        kuyss   - kiss
+        leyf    - loaf, bread
+        likht   - light
+        liykh   - laugh 
+        loyf    - life
+        luyf    - love
+        mann    - person
+        meyn    - a crime, a sin
+        meydn   - girl
+        mors    - death
+        mozr    - mother
+        ney     - never; no
+        neym    - name
+        nikht   - boy
+        nors    - north
+        nuyt    - use (of something); occupation or line of work
+        oy      - always; yes
+        rikht   - right (ie human rights)
+        riych   - kingdom
+        sistr   - sister
+        skritr  - bugs, pl. skritn
+        spreych - speech, language
+        sterk   - strength
+        stuy    - place, spot, area, location, room
+        tiyr    - God
+        wer     - man
+        wekh    - way
+        wind    - wind
+        wikht   - thing, creature
+        wisduym - wisdom
+        winn    - war
+        witz    - joke
+        yekind  - natural world; disposition; kind
+        yemeyn  - meaning
+        yewikht - weight
+        yewit   - (one of the 5) senses
+        yungr   - child, kid
+        zing    - thing
+        ziykh   - victory
+        ziykhns - spoils of war; prize
+        zuyn    - sun
 
-Adjectives:
-    -r:   intensifier
-    -st:  most intense
-    -ful: adjectivising; being full of x
-    -ly:  adjectivisng/adverbalising
-    -sum: characterised by x; exemplifying x (e.g. 'loynsum', lonesome)
+    Adjectives:
+        -r:   intensifier
+        -st:  most intense
+        -ful: adjectivising; being full of x
+        -ly:  adjectivisng/adverbalising
+        -sum: characterised by x; exemplifying x (e.g. 'loynsum', lonesome)
 
-    dawzald  - middle age (late teenage years to early retirement)
-    guz      - good
-    hyaldsum - protective
-    heyl     - whole
-    heyly    - holy
-    hot      - hot
-    hyard    - hard
-    ivel     - evil
-    likhzald - old age
-    liyass   - false
-    meyr     - more
-    rad      - red
-    riychful - rich
-    seyr     - very
-    sterk    - strong
-    warm     - warm
-    wiys     - wise
-    weyr     - true, correct
-    yewar    - aware
+        dawzald  - middle age (late teenage years to early retirement)
+        guz      - good
+        hyaldsum - protective
+        heyl     - whole
+        heyly    - holy
+        hot      - hot
+        hyard    - hard
+        ivel     - evil
+        likhzald - old age
+        liyass   - false
+        meyr     - more
+        rad      - red
+        riychful - rich
+        seyr     - very
+        sterk    - strong
+        warm     - warm
+        wiys     - wise
+        weyr     - true, correct
+        yewar    - aware
 
-Adverbs:
-    -liche: adverbial suffix, congate to -ly
+    Adverbs:
+        -liche: adverbial suffix, congate to -ly
 
-Verbs:
-    -n:  infinitive
-    -t:  perfective suffix
-    -r:  one who verbs, agentitive
-    -nd: present participle
-    -nt: past participle
-    ye-: completeness intensifier
-    
-    ar      - are (2nd person cont. form of 'to be')
-    biy     - to be (gnomic form of 'is')
-    bleyn   - to blow
-    bostn   - to boast (int.), to argue (trans.)
-    bringn  - to bring
-    diymn   - to deem, to judge
-    drechn  - to tempt, to provoke
-    driyvn  - to annoy
-    duy, diyd - to do
-    em      - am  (1st person cont. form of 'to be')
-    foryivn - to forgive
-    gyernen - to like
-    hatn    - to hate
-    heygln  - to sanctify
-    heydn   - to call
-    hidgen  - to think
-    hovn    - to have
-    hyaldn  - to protect
-    hyoldn  - to hold
-    hyus    - to house
-    is      - is  (3rd person cont. form of 'to be')
-    kuymn   - to come
-    kunnen  - to know; to recognise; to be able
-    liykhn  - to laugh
-    loyvn   - to live
-    luyvn   - to love
-    meykn   - to make
-    morzn   - to murder
-    nuydn   - to use
-    onkomn  - to arrive
-    redn    - to rescue
-    setn    - to set down, to place
-    seyn    - to say
-    shiynen - to shine
-    shoynen - to show, to take something off
-    snifn   - to snif
-    spreychn - to speak
-    swezn   - to swaddle
-    war     - was
-    wegn    - to carry; to wear
-    werzn   - to become (trans.), to happen (with 'tu')
-    winnen  - to struggle
-    workn   - to work
-    yehyaldn - to protect
-    yemeynen - to mean; to intend; to complain (with 'weyn')
-    yewinn  - to wage war
-    yern    - to yearn
-    yewekhn - to weigh something
-    yivn    - to give
-    zind    - are (plural cont. form of 'to be')
-    zing, zung - to sing 
+    Verbs:
+        -n:  infinitive
+        -t:  perfective suffix
+        -r:  one who verbs, agentitive
+        -nd: present participle
+        -nt: past participle
+        ye-: completeness intensifier
+        
+        ar      - are (2nd person cont. form of 'to be')
+        biy     - to be (gnomic form of 'is')
+        bleyn   - to blow
+        bostn   - to boast (int.), to argue (trans.)
+        bringn  - to bring
+        diymn   - to deem, to judge
+        drechn  - to tempt, to provoke
+        driyvn  - to annoy
+        duy, diyd - to do
+        em      - am  (1st person cont. form of 'to be')
+        foryivn - to forgive
+        gyernen - to like
+        hatn    - to hate
+        heygln  - to sanctify
+        heydn   - to call
+        hidgen  - to think
+        hovn    - to have
+        hyaldn  - to protect
+        hyoldn  - to hold
+        hyus    - to house
+        is      - is  (3rd person cont. form of 'to be')
+        kuymn   - to come
+        kunnen  - to know; to recognise; to be able
+        liykhn  - to laugh
+        loyvn   - to live
+        luyvn   - to love
+        meykn   - to make
+        morzn   - to murder
+        nuydn   - to use
+        onkomn  - to arrive
+        redn    - to rescue
+        setn    - to set down, to place
+        seyn    - to say
+        shiynen - to shine
+        shoynen - to show, to take something off
+        snifn   - to snif
+        spreychn - to speak
+        swezn   - to swaddle
+        war     - was
+        wegn    - to carry; to wear
+        werzn   - to become (trans.), to happen (with 'tu')
+        winnen  - to struggle
+        workn   - to work
+        yehyaldn - to protect
+        yemeynen - to mean; to intend; to complain (with 'weyn')
+        yewinn  - to wage war
+        yern    - to yearn
+        yewekhn - to weigh something
+        yivn    - to give
+        zind    - are (plural cont. form of 'to be')
+        zing, zung - to sing 
 
-Determiners:
-    bos     - both
-    eych    - each
-    swa     - 'as' (in such a manner)
+    Determiners:
+        bos     - both
+        eych    - each
+        swa     - 'as' (in such a manner)
 
-    Definite Article, "ziy"
-        +Acc: zoyn
+        Definite Article, "ziy"
+            +Acc: zoyn
 
-    Indefinite Article, "o(n)"
+        Indefinite Article, "o(n)"
 
-    Negative Article, "ney"
-        +Acc: neyn
+        Negative Article, "ney"
+            +Acc: neyn
 
-    Proximal Demonstrative, "ziys"
-        +Acc: ziysn, +Loc: hiyr
+        Proximal Demonstrative, "ziys"
+            +Acc: ziysn, +Loc: hiyr
 
-    Medial, "zot"
-        +Acc: zotn, +Loc: zor
+        Medial, "zot"
+            +Acc: zotn, +Loc: zor
 
-    Distal, "yon"
-        +Acc: yondn, +Loc: yondr
+        Distal, "yon"
+            +Acc: yondn, +Loc: yondr
 
-Pronouns:
-    Interrogatives:
-    (Usable as relative pronouns)
-        - Who:    (Nom) Hoy, (Acc) Hoyn
-        - What:   Hot
-        - When:   Hon
-        - Where:  (Nom) Har, (Acc) Harn
-        - Why:    Hoy
-        - How:    Hu
+    Pronouns:
+        Interrogatives:
+        (Usable as relative pronouns)
+            - Who:    (Nom) Hoy, (Acc) Hoyn
+            - What:   Hot
+            - When:   Hon
+            - Where:  (Nom) Har, (Acc) Harn
+            - Why:    Hoy
+            - How:    Hu
 
-    Personal:
-        - 1PS:  ich, miy, moyn
-        - 1PP:  wiy, uys, uyr
-        - 2PS:  yu, (gen) yur
-        - 2PP:  yol
-        - 3PS:  
-            mas: 
-                hiy, hin
-            neut:
-                to, toyn
-            fem:
-                shiy, her
-            inanimate:
-                ess, essn
-        - 3PP:  zey, zem
-        - RFX:  zik, zin
+        Personal:
+            - 1PS:  ich, miy, moyn
+            - 1PP:  wiy, uys, uyr
+            - 2PS:  yu, (gen) yur
+            - 2PP:  yol
+            - 3PS:  
+                mas: 
+                    hiy, hin
+                neut:
+                    to, toyn
+                fem:
+                    shiy, her
+                inanimate:
+                    ess, essn
+            - 3PP:  zey, zem
+            - RFX:  zik, zin
 
-    Relative Pronouns: zat
+        Relative Pronouns: zat
 
-Verb Conjugation:
-    Auxiliary Verbs:
-        war:      past/continuous tense (with inf)
-        hof:      past/perfective tense (with perf verb)
-        wil:      future/continuous tense (with inf)
-        will hof: future/perfective tense (with perf verb)
+    Verb Conjugation:
+        Auxiliary Verbs:
+            war:      past/continuous tense (with inf)
+            hof:      past/perfective tense (with perf verb)
+            wil:      future/continuous tense (with inf)
+            will hof: future/perfective tense (with perf verb)
 
-        muss(t):   required to
-        wiysch(t): optative mood
-        kon:       to know, to be able
-        ney:       not
-        biyn:      passive
+            muss(t):   required to
+            wiysch(t): optative mood
+            kon:       to know, to be able
+            ney:       not
+            biyn:      passive
 
-    Conjugation:
-        Continuous:
-            Plurals use -n
-            1PS/2PS use stem
-            3PS     use -s
+        Conjugation:
+            Continuous:
+                Plurals use -n
+                1PS/2PS use stem
+                3PS     use -s
 
-        Perfective:
-            Ablaut or -t
-            (-s, -ss + -t > -zt, -st)
-            (-d, -t  + -t > -det, -tet)
+            Perfective:
+                Ablaut or -t
+                (-s, -ss + -t > -zt, -st)
+                (-d, -t  + -t > -det, -tet)
 
-    Weak Verb: Snifn
-        Perfect: snift
-        Plural:  snifn
-        1/2PS:   snif
-        3PS:     snifs
+        Weak Verb: Snifn
+            Perfect: snift
+            Plural:  snifn
+            1/2PS:   snif
+            3PS:     snifs
 
-    Strong Verb: Zingn (Zung)
-        Perfect: zung
-        Plural:  zingn
-        1/2PS:   zing
-        3PS:     zings
+        Strong Verb: Zingn (Zung)
+            Perfect: zung
+            Plural:  zingn
+            1/2PS:   zing
+            3PS:     zings
 
-Irregular Verbs:
-    To Be:
-        Gnomic: biy (defective; no conjugations)
-        Perfective: war
-        Continuous:
-            1PS: em
-            2PS: ar
-            3PS: is
-            PLR: zind
+    Irregular Verbs:
+        To Be:
+            Gnomic: biy (defective; no conjugations)
+            Perfective: war
+            Continuous:
+                1PS: em
+                2PS: ar
+                3PS: is
+                PLR: zind
 
-Conjunctions:
-    siye - if
-    niye - otherwise
-    ok   - but
-    ney  - nor
-    uyz  - or
-    woyl - because
-    zon  - then
-    nu   - now
-    ond  - and
+    Conjunctions:
+        siye - if
+        niye - otherwise
+        ok   - but
+        ney  - nor
+        uyz  - or
+        woyl - because
+        zon  - then
+        nu   - now
+        ond  - and
 
-Prepositions:
-    aftr
-    eyr     - early
-    at
-    anlang   - along
-    boy      - by, about, at
-    biyfor   - before
-    biyond   - beyond
-    biyhoynd - behind
-    bitwiyn  - between
-    abuv     - above
-    ok       - but, also
-    for
-    from
-    in
-    mid     - with (instrumental, locative)
-    nyar    - near
-    of
-    ovr     - over
-    on
-    tu
-    zur     - through
-    nyod    - beneath, below, down
-    um      - around (approximation, approximal location); about (topic)
-    swa     - so, as
+    Prepositions:
+        aftr
+        eyr     - early
+        at
+        anlang   - along
+        boy      - by, about, at
+        biyfor   - before
+        biyond   - beyond
+        biyhoynd - behind
+        bitwiyn  - between
+        abuv     - above
+        ok       - but, also
+        for
+        from
+        in
+        mid     - with (instrumental, locative)
+        nyar    - near
+        of
+        ovr     - over
+        on
+        tu
+        zur     - through
+        nyod    - beneath, below, down
+        um      - around (approximation, approximal location); about (topic)
+        swa     - so, as
 
-Numbers:
-    1  - oyn
-    2  - dwo
-    3  - zriy
-    4  - vor
-    5  - voyf
-    6  - zeks
-    7  - zofn
-    8  - akht
-    9  - neyn
-    10 - ten
-    11 - alofn
-    12 - zwolf
-    (After here becomes number+tiyn)
-    13 - zriytiyn
-    14 - vortiyn
-    (etc.)
-    20 - twantiy
-    30 - zriytiy
-    (etc.)
-    100 - hondrod
-    1000 - zuznd
+    Numbers:
+        1  - oyn
+        2  - dwo
+        3  - zriy
+        4  - vor
+        5  - voyf
+        6  - zeks
+        7  - zofn
+        8  - akht
+        9  - neyn
+        10 - ten
+        11 - alofn
+        12 - zwolf
+        (After here becomes number+tiyn)
+        13 - zriytiyn
+        14 - vortiyn
+        (etc.)
+        20 - twantiy
+        30 - zriytiy
+        (etc.)
+        100 - hondrod
+        1000 - zuznd
 
 
-    Ordinals:
-    1st forma, 2nd ozer, 3rd zridda
-        Rest are number+zo, e.g.
-    vyorzo, voyfzo, etc. 
+        Ordinals:
+        1st forma, 2nd ozer, 3rd zridda
+            Rest are number+zo, e.g.
+        vyorzo, voyfzo, etc. 
 
-Sound Changes:
-    k always hard, ch for palatal
-    sċ > sh
-    f, s > v, z  -sporadic, usually initial
-    s, z > ss, s / _# -orthographic change only
+    Sound Changes:
+        k always hard, ch for palatal
+        sċ > sh
+        f, s > v, z  -sporadic, usually initial
+        s, z > ss, s / _# -orthographic change only
 
-    ð, þ > z, s
+        ð, þ > z, s
 
-    ø, ø: > e, e:
-    y, y: > {i,u}, {i:,u:}
-    iu, i:u > yu, iyu
-    eo, e:o > yo, iyo
-    æɑ, æ:ɑ > ya, iya
-    ɑ > o,a
-    i:, e:, æ:, u:, o: > oy, iy, ey, yu, uy
+        ø, ø: > e, e:
+        y, y: > {i,u}, {i:,u:}
+        iu, i:u > yu, iyu
+        eo, e:o > yo, iyo
+        æɑ, æ:ɑ > ya, iya
+        ɑ > o,a
+        i:, e:, æ:, u:, o: > oy, iy, ey, yu, uy
 
-    {r,l,n}y > {r,l,n}
-    x > h / #_
-    w > h / #_{o,u}
-    wy > w
+        {r,l,n}y > {r,l,n}
+        x > h / #_
+        w > h / #_{o,u}
+        wy > w
 
-    u, e, o, ɑ > ɔ / _G
-    i > ɪ / _G
-    i, {e,æ}, u, {o,ɑ} > ɪ, ɛ, ʊ, ɔ / _G
+        u, e, o, ɑ > ɔ / _G
+        i > ɪ / _G
+        i, {e,æ}, u, {o,ɑ} > ɪ, ɛ, ʊ, ɔ / _G
 
-    g > kh / _#
+        g > kh / _#
 
-    i, {e,æ}, u, {o,ɑ} > iy, ey, yu, oy / _C{e,a,o}  - Also voices C and removes final vowel
+        i, {e,æ}, u, {o,ɑ} > iy, ey, yu, oy / _C{e,a,o}  - Also voices C and removes final vowel
 
-    ylg > ygl
+        ylg > ygl
