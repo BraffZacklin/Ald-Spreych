@@ -3,10 +3,12 @@ Nouns:
     -n:   plural
     -nes: abstract noun; having the qualities of x
     -niy: abstract noun; -tion
-    -sn:  a tool for x
+    -ns:  a tool for x
     un-:  negation/absence of x, bad x (e.g. deyd "deed", undeyd "misdeed")
+    meyn-: ill, negative connotation: meynsweren, "to lie; to perjur"
 
     andgit  - intelligence
+    boks    - box
     brozr   - brother
     child   - baby
     chiyl   - cold
@@ -18,14 +20,19 @@ Nouns:
     holkiyr - feminine warrior; gay slang apprx. 'butch'
     hoyf    - woman
     hund    - dog, hound
+    hyald   - hold (over something, someone); protection
+    hyaldboks - safe; repository; stash
+    hyaldstuy - safe place; stash
     hyovn   - heaven
     hyuss   - house
     kinn    - kind, type, species, group; family
     kiyn    - king
     kiz     - kid
     kluyk   - cloak
+    kuyss   - kiss
     leyf    - loaf, bread
     likht   - light
+    liykh   - laugh 
     loyf    - life
     luyf    - love
     mann    - person
@@ -45,17 +52,19 @@ Nouns:
     skritr  - bugs, pl. skritn
     spreych - speech, language
     sterk   - strength
+    stuy    - place, spot, area, location, room
     tiyr    - God
     wer     - man
     wekh    - way
     wind    - wind
     wikht   - thing, creature
     wisduym - wisdom
-    yewit   - (one of the 5) senses
     winn    - war
     witz    - joke
     yekind  - natural world; disposition; kind
+    yemeyn  - meaning
     yewikht - weight
+    yewit   - (one of the 5) senses
     yungr   - child, kid
     zing    - thing
     ziykh   - victory
@@ -65,11 +74,13 @@ Nouns:
 Adjectives:
     -r:   intensifier
     -st:  most intense
-    -ful: adjectivising
-    -ly:  adjectivisng
+    -ful: adjectivising; being full of x
+    -ly:  adjectivisng/adverbalising
+    -sum: characterised by x; exemplifying x (e.g. 'loynsum', lonesome)
 
     dawzald  - middle age (late teenage years to early retirement)
     guz      - good
+    hyaldsum - protective
     heyl     - whole
     heyly    - holy
     hot      - hot
@@ -112,32 +123,40 @@ Verbs:
     gyernen - to like
     hatn    - to hate
     heygln  - to sanctify
-    heytn   - to call
+    heydn   - to call
     hidgen  - to think
+    hovn    - to have
+    hyaldn  - to protect
     hyoldn  - to hold
     hyus    - to house
     is      - is  (3rd person cont. form of 'to be')
     kuymn   - to come
     kunnen  - to know; to recognise; to be able
+    liykhn  - to laugh
     loyvn   - to live
     luyvn   - to love
+    meykn   - to make
     morzn   - to murder
     nuydn   - to use
     onkomn  - to arrive
     redn    - to rescue
+    setn    - to set down, to place
     seyn    - to say
     shiynen - to shine
-    shoyn   - to show, to take something off
-    sniff   - to sniff
+    shoynen - to show, to take something off
+    snifn   - to snif
     spreychn - to speak
     swezn   - to swaddle
     war     - was
     wegn    - to carry; to wear
     werzn   - to become (trans.), to happen (with 'tu')
     winnen  - to struggle
+    workn   - to work
+    yehyaldn - to protect
+    yemeynen - to mean; to intend; to complain (with 'weyn')
     yewinn  - to wage war
     yern    - to yearn
-    yewekhn - to 
+    yewekhn - to weigh something
     yivn    - to give
     zind    - are (plural cont. form of 'to be')
     zing, zung - to sing 
@@ -215,13 +234,13 @@ Verb Conjugation:
         Perfective:
             Ablaut or -t
             (-s, -ss + -t > -zt, -st)
-            (-f, -ff + -t > -vt, -ft) 
+            (-d, -t  + -t > -det, -tet)
 
-    Weak Verb: Sniffn
-        Perfect: snifft
-        Plural:  sniffn
-        1/2PS:   sniff
-        3PS:     sniffs
+    Weak Verb: Snifn
+        Perfect: snift
+        Plural:  snifn
+        1/2PS:   snif
+        3PS:     snifs
 
     Strong Verb: Zingn (Zung)
         Perfect: zung
@@ -254,14 +273,14 @@ Prepositions:
     aftr
     eyr     - early
     at
-    anlang  - along
-    boy     - by, about, at
-    biyfor  - before
-    biyond  - beyond
-    biyhind - behind
-    bitwen  - between
-    abuf    - above
-    ok      - but, also
+    anlang   - along
+    boy      - by, about, at
+    biyfor   - before
+    biyond   - beyond
+    biyhoynd - behind
+    bitwiyn  - between
+    abuv     - above
+    ok       - but, also
     for
     from
     in
@@ -270,11 +289,10 @@ Prepositions:
     of
     ovr     - over
     on
-    weyn    - about (subject matter)
     tu
     zur     - through
     nyod    - beneath, below, down
-    um      - around (approximation, approximal location)
+    um      - around (approximation, approximal location); about (topic)
     swa     - so, as
 
 Numbers:
@@ -309,13 +327,13 @@ Numbers:
 Sound Changes:
     k always hard, ch for palatal
     sċ > sh
-    f, s > v, z initially / !_N
-    f, v, s, z > ff, f, ss, s / _# - orthographic change only
+    f, s > v, z  -sporadic, usually initial
+    s, z > ss, s / _# -orthographic change only
 
     ð, þ > z, s
 
     ø, ø: > e, e:
-    y, y: > i, i:
+    y, y: > {i,u}, {i:,u:}
     iu, i:u > yu, iyu
     eo, e:o > yo, iyo
     æɑ, æ:ɑ > ya, iya
