@@ -1,3 +1,6 @@
+Alphabet
+a b g d e f h i k l m n o p r s t u v w y z ch sh
+
     Nouns:
         -s:   genitive
         -n:   plural
@@ -16,6 +19,7 @@
         erz     - earth (the soil and the planet) 
         farenr  - traveller
         fazr    - father
+        frond   - friend
         heym    - home
         holkiyr - feminine warrior; gay slang apprx. 'butch'
         hoyf    - woman
@@ -42,7 +46,8 @@
         mozr    - mother
         ney     - never; no
         neym    - name
-        nikht   - boy
+        nik     - nothing (also nikht, nich, ni)
+        kenikht - boy
         nors    - north
         nuyt    - use (of something); occupation or line of work
         oy      - always; yes
@@ -133,9 +138,9 @@
         kuymn   - to come
         kunnen  - to know; to recognise; to be able
         liykhn  - to laugh
-        loyvn   - to live
+        livn    - to live
         luyvn   - to love
-        meykn   - to make
+        meykn, makkt - to make
         morzn   - to murder
         nuydn   - to use
         onkomn  - to arrive
@@ -159,12 +164,12 @@
         yewekhn - to weigh something
         yivn    - to give
         zind    - are (plural cont. form of 'to be')
-        zing, zung - to sing 
+        zing, zunkt - to sing 
 
     Determiners:
         bos     - both
         eych    - each
-        swa     - 'as' (in such a manner)
+        so      - 'as' (in such a manner)
 
         Definite Article, "ziy"
             +Acc: zoyn
@@ -186,18 +191,18 @@
     Pronouns:
         Interrogatives:
         (Usable as relative pronouns)
-            - Who:    (Nom) Hoy, (Acc) Hoyn
+            - Who:    Hu, hot mon
             - What:   Hot
             - When:   Hon
             - Where:  (Nom) Har, (Acc) Harn
-            - Why:    Hoy
+            - Why:    vi
             - How:    Hu
 
         Personal:
             - 1PS:  ich, miy, moyn
             - 1PP:  wiy, uys, uyr
             - 2PS:  yu, (gen) yur
-            - 2PP:  yol
+            - 2PP:  yus
             - 3PS:  
                 mas: 
                     hiy, hin
@@ -206,7 +211,7 @@
                 fem:
                     shiy, her
                 inanimate:
-                    ess, essn
+                    ez, ezn
             - 3PP:  zey, zem
             - RFX:  zik, zin
 
@@ -217,7 +222,7 @@
             war:      past/continuous tense (with inf)
             hof:      past/perfective tense (with perf verb)
             wil:      future/continuous tense (with inf)
-            will hof: future/perfective tense (with perf verb)
+            wil hof: future/perfective tense (with perf verb)
 
             muss(t):   required to
             wiysch(t): optative mood
@@ -231,8 +236,8 @@
                 1PS/2PS use stem
                 3PS     use -s
 
-            Perfective:
-                Ablaut or -t
+            Perfective/Past:
+                Ablaut and/or -t
                 (-s, -ss + -t > -zt, -st)
                 (-d, -t  + -t > -det, -tet)
 
@@ -255,15 +260,16 @@
             Continuous:
                 1PS: em
                 2PS: ar
-                3PS: is
+                3PS: iz
                 PLR: zind
+            ichm, yur, zeyz/hiyz/siyz, wiyndn/yundn/zeyndn
 
     Conjunctions:
-        siye - if
-        niye - otherwise
+        isso  - if
+        niso - otherwise
         ok   - but
         ney  - nor
-        uyz  - or
+        or   - or
         woyl - because
         zon  - then
         nu   - now
@@ -273,7 +279,7 @@
         aftr
         eyr     - early
         at
-        anlang   - along
+        anang    - along
         boy      - by, about, at
         biyfor   - before
         biyond   - beyond
@@ -282,7 +288,6 @@
         abuv     - above
         ok       - but, also
         for
-        from
         in
         mid     - with (instrumental, locative)
         nyar    - near
@@ -354,3 +359,19 @@
         i, {e,æ}, u, {o,ɑ} > iy, ey, yu, oy / _C{e,a,o}  - Also voices C and removes final vowel
 
         ylg > ygl
+
+
+current soundchanges undergoing:
+    Finals are becoming voiced (somewhat stopped by vowel reduction, e.g. hoff, past tense of auxiliary verb hob)
+    Finals are becoming fricatives
+
+Other Notes
+    Strong verbs are ablauted in the infinitive (nice conjugating infinitive you got there) if a past
+        e.g.
+        "(ich) wilt kleb makkn", I wanted bread to made; not \*"(ich) wilt kleb meykn", but this is in-progress
+
+    technically ablaut + -t (perfective/past... it's vague) is different
+        e.g. zung, zingt, zungt
+        "ich zung oyn liyd", I sung a song (in the past, perfective or continuous but leans more to continuous)
+        "ich zingt oyn liyd", I sang a song (general perfective, possible habitual/perfect reading)
+        "ich zungt oyn liyd", I sung a song (past perfective)
